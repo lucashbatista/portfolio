@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Portfolio Template - HTML</h1>
+<h1 align="center">Lucas' Portfolio</h1>
 
 <p align="center">
 <img src="https://img.shields.io/github/repo-size/CommunityPro/portfolio-html?color=green&label=project%20size">
