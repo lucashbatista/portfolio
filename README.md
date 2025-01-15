@@ -106,7 +106,7 @@ The logo of this template is controlled by this line in the `index.html` markup,
 ```html
 <!-- Logo -->
 <h1 id="logo">
-    <a href="#"><img src="https://private-user-images.githubusercontent.com/73558939/403176740-f4c7379f-169a-4e42-8d94-e00751a9e250.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY5NDIyMjgsIm5iZiI6MTczNjk0MTkyOCwicGF0aCI6Ii83MzU1ODkzOS80MDMxNzY3NDAtZjRjNzM3OWYtMTY5YS00ZTQyLThkOTQtZTAwNzUxYTllMjUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE1VDExNTIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkYjNhMWJhNDQ3YTBkZWRkY2EzNGFlNDI1NWM3ZmEwODM2MzE4MzNkODA0NmU4N2ZlYzZiMWEzNzY4ZTkwYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jTayWm8gu5FAg2zax6JyPZNXeo8lxxZYFrSwE25ANP0" alt="Your Logo"></a>
+    <a href="#"><img src="data_screenshot.png" alt="Your Logo"></a>
 </h1>
 ```
 
