@@ -106,7 +106,7 @@ The logo of this template is controlled by this line in the `index.html` markup,
 ```html
 <!-- Logo -->
 <h1 id="logo">
-    <a href="#"><img src="./assets/logo.png" alt="Your Logo"></a>
+    <a href="#"><img src="![Screenshot 2025-01-14 at 5 50 41 PM](https://github.com/user-attachments/assets/f4c7379f-169a-4e42-8d94-e00751a9e250)" alt="Your Logo"></a>
 </h1>
 ```
 
