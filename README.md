@@ -135,7 +135,7 @@ Or replace the `src` link in the HTML file with your preferred image. I recommen
 Edit the name on the welcome message with your own name. This line of text can be found in the `/docs/index.html` file.
 Replace `Franklin` with your own name. 
 ```html
-<h1>Hi I'm Franklin</h1>
+<h1>Hi there, my name is Lucas and here is my data analytics portfolio</h1>
 ```
 
 ## 5. Job Title
